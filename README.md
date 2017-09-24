@@ -3,8 +3,6 @@ A [Flatris](https://github.com/skidding/flatris) clone in Elm language v0.18.
 
 [![Screenshot](elm-flatris.png)](http://unsoundscapes.com/elm-flatris.html)
 
-Current demo can be seen [here](http://unsoundscapes.com/elm-flatris.html).
-
 ## Features
 
 * works on both desktop and mobile
